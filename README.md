@@ -3,7 +3,7 @@
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) project!
-Just edit this file to add a description about it.
+Helix Split Keyboard re-created with LibrePCB EDA.
 
 ## License
 
