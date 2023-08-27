@@ -4,7 +4,7 @@
 
 This is a [LibrePCB](https://librepcb.org) project!
 
-Helix Split Ortho Keyboard re-created with LibrePCB EDA.
+[Helix](https://github.com/MakotoKurauchi/helix) Split Ortho Keyboard re-created with LibrePCB EDA.
 
 ## License
 
